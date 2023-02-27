@@ -1,0 +1,5 @@
+mods/data/foolhardy-bs/foolhardy-bs.json
+mods/songs/foolhardy-bs/Voices.ogg
+mods/songs/foolhardy-bs/Inst.ogg
+mods/songs/foolhardy-bs/voices.ogg
+mods/songs/foolhardy-bs/inst.ogg
