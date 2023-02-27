@@ -1,0 +1,5 @@
+mods/data/improbable-outset-bs/improbable-outset-bs-hard.json
+mods/songs/improbable-outset-bs/Voices.ogg
+mods/songs/improbable-outset-bs/Inst.ogg
+mods/songs/improbable-outset-bs/voices.ogg
+mods/songs/improbable-outset-bs/inst.ogg

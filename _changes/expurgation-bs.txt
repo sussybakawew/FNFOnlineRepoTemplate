@@ -1,0 +1,5 @@
+mods/data/expurgation-bs/expurgation-bs-hard.json
+mods/songs/expurgation-bs/Voices.ogg
+mods/songs/expurgation-bs/Inst.ogg
+mods/songs/expurgation-bs/voices.ogg
+mods/songs/expurgation-bs/inst.ogg

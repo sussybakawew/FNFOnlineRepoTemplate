@@ -1,0 +1,5 @@
+mods/data/madness-bs-old/madness-bs-old-hard.json
+mods/songs/madness-bs-old/Voices.ogg
+mods/songs/madness-bs-old/Inst.ogg
+mods/songs/madness-bs-old/voices.ogg
+mods/songs/madness-bs-old/inst.ogg

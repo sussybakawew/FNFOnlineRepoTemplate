@@ -1,1 +1,5 @@
+mods/weeks/e.json
 mods/weeks/f.json
+mods/weeks/h.json
+mods/weeks/i.json
+mods/weeks/m.json
